@@ -1,0 +1,27 @@
+
+
+@font-face {
+  font-family: 'noto';
+  src: url(../font/NotoSans-Regular.woff2) format('woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'noto';
+  src: url(../font/NotoSans-Medium.woff2) format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'noto';
+  src: url(../font/NotoSans-Bold.woff2) format('woff2');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'suit';
+  src: url(../font/SUIT-Bold.woff2) format('woff2');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'mavenpro';
+  src: url(../font/MavenPro-ExtraBold.woff) format('woff');
+  font-weight: 700;
+}
