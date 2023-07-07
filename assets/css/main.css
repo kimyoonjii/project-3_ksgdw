@@ -1,4 +1,7 @@
 
+/* 본문 바로가기 */
+#skip-nav {position: fixed; left: 0; top: -40px; width: 100%; z-index: 100000; line-height: 40px; text-align: center; background-color: rgba(0,0,0,0.6); color: #fff; font-size: 16px; transition: top 0.3s;}
+#skip-nav:focus {top: 0;}
 
 /* sc-visual  */
 .sc-visual {
